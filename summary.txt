@@ -1,0 +1,13 @@
+1. I chose NodeJS and Express for this coding excercise because I am comfortable with them,
+and they are designed for building web applications and APIs. I wanted to keep the amount of 
+libraries low as well to keep the code more clean and easy to understand. 
+
+2. The advantages of my solution are that the code is readable and not hard to follow, although some parts
+are not extremely efficient. One example of this is the transactions array, which I currently sort each 
+time a spent POST request is sent. I beleived this is more efficient than using a more complex data structure
+when the amount of transactions are low, but if the amount of transactions were to increase, it would become slow,
+and using a min-Heap would be better.
+
+3. A favorite personal project that I built was a web application I built for a hackathon. Working with a 
+team proved to be more challenging than writing all the code myself at first, but throughout the competition
+I learned to coordinate with my teammates better and eventually managed to win!
